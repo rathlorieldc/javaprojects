@@ -19,7 +19,7 @@ import java.io.File;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class CMIS242Prj4_RiveraD {
+public class MediaRental {
 	
 public abstract static class Media {
 	
