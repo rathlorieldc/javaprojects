@@ -12,7 +12,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class CMIS242ASG3RiveraD {
+public class TempConverter {
 	
 	private abstract static class Converter {
 		
