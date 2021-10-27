@@ -1,7 +1,4 @@
 /*
- * Deysha Rivera - CMIS 242
- * Program Completion Date: June 26, 2021
- * 
  * Program Purpose: Design and implement a temperature and distance converter program. The program will allow a user to input a fahrenheit value and return the celsius value, or input
  * a miles value and return the kilometers value. If the instance has no input value, it will display a message if there is no input. The program implements a GUIConverter class
  * using JFrame and JPanel to allow the user to interact with buttons to select converters and exit the program, and creates input boxes to enter values. The input box has an 
