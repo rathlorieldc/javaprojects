@@ -1,8 +1,4 @@
 /*
- * 
- * Deysha Rivera - CMIS 242
- * Program Completion Date: July 13, 2021
- * 
  * Program purpose: design and implement a media rental system. The program prompts a user to enter a directory and reads data from a file PRJ4rentals.
  * The program parses data from the file and adds each row of media items to an arraylist. The program organizes the files based on their type as indicated in
  * the file. The program implements class to load, data from the file, display the media data, and find, rent, and return media objects. The program uses
